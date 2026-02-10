@@ -7,27 +7,27 @@
 
 <img src="https://komarev.com/ghpvc/?username=uzbtrust&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
 
-<h1>👋 Salom! Men Dostonbek Abdurakhmonov</h1>
+<h1>👋 Hi! I'm Dostonbek Abdurakhmonov</h1>
 
 <h2>🚀 Aspiring AI Researcher<br>💻 Computer Vision & Low-Resource NLP Enthusiast</h2>
 
 <p>
-  <strong>"Yangila, moslash, g'alaba qozon" 🔥</strong>
+  <strong>"Adapt, innovate, conquer" 🔥</strong>
 </p>
 
 <hr width="60%">
 
 <p>
-  🇺🇿 O'zbekistondan • AI orqali real dunyo muammolarini hal qilaman<br><br>
-  Ayniqsa, kam resursli tillar (Uzbek NLP) va avtonom tizimlar yo'nalishida ishlayman<br><br>
-  <strong>Hozirda Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</strong><br>
-  ga topshirmoqdaman — AI tadqiqotlarini global darajada davom ettirish maqsadim 🌟
+  🇺🇿 From Uzbekistan • Passionate about solving real-world problems with AI<br><br>
+  Focused on low-resource languages (Uzbek NLP) and autonomous systems<br><br>
+  <strong>Currently applying to Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</strong><br>
+  to advance my AI research on a global scale 🌟
 </p>
 
 <br><br><br>
 
 <!-- Skills Badges -->
-<h3>🛠 Texnologiyalar va Frameworklar</h3>
+<h3>🛠 Technologies & Frameworks</h3>
 
 <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
 <img src="https://img.shields.io/badge/PyTorch-Expert-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch" />
@@ -41,30 +41,24 @@
 
 <br><br><br><br>
 
-<!-- Stats & Streak (qaytarildi, dark theme bilan) -->
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=uzbtrust&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=58A6FF&title_color=58A6FF&icon_color=58A6FF"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzbtrust&layout=compact&theme=dark&border_color=58A6FF&title_color=58A6FF"/>
-
-<br><br>
-
-<img height="200em" src="https://streak-stats.demolab.com?user=uzbtrust&theme=dark&border=58A6FF&dates=FFFFFF&fire=FF6B6B&currStreakLabel=FFFFFF"/>
-<img height="200em" src="https://github-profile-trophy.vercel.app/?username=uzbtrust&theme=dark&no-frame=false&margin-w=15&row=2&column=6&title_color=58A6FF&border_color=58A6FF"/>
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=uzbtrust&theme=dark&border=58A6FF&dates=FFFFFF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
 <br><br><br>
 
 </div>
 
-## 🔥 Tanlangan Loyihalar
+## 🔥 Featured Projects
 
 <div align="center">
 
-| Emoji | Loyiha | Tavsif | Texnologiyalar | Link |
-|-------|--------|--------|----------------|------|
-| 🇺🇿 | **Uzbek Low-Resource RAG** | O'zbek tili uchun ilg'or RAG tizimi. Llama-3 + LCEL + FAISS bilan hallucination larni minimallashtirish. Kam resursli tillar uchun katta qadam! | Llama-3 • LangChain • FAISS • Hugging Face | [Repo](https://github.com/uzbtrust/Uzbek_LowResource_RAG) |
-| 🍱 | **NutriScan-AI-Pro** | YOLOv11 bilan real-time ovqat segmentatsiyasi va kaloriya hisoblash. Apple Silicon optimizatsiyasi + chiroyli UI. | YOLOv11 • PyTorch • CoreML • Streamlit | [Repo](https://github.com/uzbtrust/NutriScan-AI-Pro) |
-| 🚗 | **Autonomous Road Segmentation** | Avtonom haydash uchun yuqori tezlikdagi semantik segmentatsiya (1100+ FPS, 94% mIoU). | TensorFlow • SMP • OpenCV | [Repo](https://github.com/uzbtrust/Autonomous-Road-Segmentation-AI) |
-| 🛒 | **Product Image Search** | ResNet50 + FAISS bilan real-time mahsulot qidiruv tizimi (Asaxiy.uz uchun ichki tool). | ResNet50 • FAISS • PyTorch | [Repo 1](https://github.com/uzbtrust/ProductRecognition) / [Repo 2](https://github.com/uzbtrust/Asaxiy-Internal-Image-Search) |
-| 🎵 | **Spotify Trends 2030** | Spotify ma'lumotlari asosida global musiqa trendlarini bashorat qilish. | Scikit-learn • Pandas • Seaborn | [Repo](https://github.com/uzbtrust/spotify-ai-predictions-2030) |
+| Emoji | Project | Description | Technologies | Link |
+|-------|---------|-------------|--------------|------|
+| 🇺🇿 | **Uzbek Low-Resource RAG** | Advanced Retrieval-Augmented Generation system for the Uzbek language. Minimizes hallucinations using Llama-3 + LCEL + FAISS. A major step forward for low-resource NLP! | Llama-3 • LangChain • FAISS • Hugging Face | [Repo](https://github.com/uzbtrust/Uzbek_LowResource_RAG) |
+| 🍱 | **NutriScan-AI-Pro** | Real-time food segmentation and calorie estimation with YOLOv11. Apple Silicon optimization + beautiful Streamlit UI. | YOLOv11 • PyTorch • CoreML • Streamlit | [Repo](https://github.com/uzbtrust/NutriScan-AI-Pro) |
+| 🚗 | **Autonomous Road Segmentation** | High-speed semantic segmentation for autonomous driving (1100+ FPS, 94% mIoU). | TensorFlow • SMP • OpenCV | [Repo](https://github.com/uzbtrust/Autonomous-Road-Segmentation-AI) |
+| 🛒 | **Product Image Search** | Real-time product search system using ResNet50 + FAISS (internal tool for Asaxiy.uz). | ResNet50 • FAISS • PyTorch | [Repo 1](https://github.com/uzbtrust/ProductRecognition) / [Repo 2](https://github.com/uzbtrust/Asaxiy-Internal-Image-Search) |
+| 🎵 | **Spotify Trends 2030** | Predicting global music trends up to 2030 based on Spotify data analysis. | Scikit-learn • Pandas • Seaborn | [Repo](https://github.com/uzbtrust/spotify-ai-predictions-2030) |
 
 </div>
 
@@ -72,17 +66,17 @@
 
 <div align="center">
 
-## 📫 Aloqa
+## 📫 Contact
 
-<img src="https://img.shields.io/badge/LinkedIn-Dostonbek%20Abdurakhmonov-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /><br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dostonbek%20Abdurakhmonov-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dostonbek-abdurakhmonov/)<br><br>
 
-<img src="https://img.shields.io/badge/Telegram-@uzbtrust-0088CC?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /><br><br>
+[![Telegram](https://img.shields.io/badge/Telegram-@uzbtrust-0088CC?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/uzbtrust)<br><br>
 
-<img src="https://img.shields.io/badge/Email-dostonbek.abdurakhmonov99@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+[![Email](https://img.shields.io/badge/Email-uzbekuzdev@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:uzbekuzdev@gmail.com)
 
 <br><br><br>
 
-<h3>🚀 Birgalikda yangi loyihalar quraylik • Build the future with AI!</h3>
+<h3>🚀 Let's build the future with AI • Open to collaborations!</h3>
 
 <!-- Bottom Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=200&section=footer" alt="Footer" />
