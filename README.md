@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Top Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Dostonbek%20Abdurakhmonov&fontSize=50&fontColor=fff&animation=twinkling" alt="Banner" />
 
 <br><br><br>
@@ -26,7 +25,6 @@
 
 <br><br><br>
 
-<!-- Skills Badges -->
 <h3>🛠 Technologies & Frameworks</h3>
 
 <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
@@ -41,24 +39,24 @@
 
 <br><br><br><br>
 
-<!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=uzbtrust&theme=dark&border=58A6FF&dates=FFFFFF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
 <br><br><br>
 
 </div>
 
-## 🔥 Featured Projects
+## 🔥 Pinned Projects
 
 <div align="center">
 
 | Emoji | Project | Description | Technologies | Link |
 |-------|---------|-------------|--------------|------|
-| 🇺🇿 | **Uzbek Low-Resource RAG** | Advanced Retrieval-Augmented Generation system for the Uzbek language. Minimizes hallucinations using Llama-3 + LCEL + FAISS. A major step forward for low-resource NLP! | Llama-3 • LangChain • FAISS • Hugging Face | [Repo](https://github.com/uzbtrust/Uzbek_LowResource_RAG) |
-| 🍱 | **NutriScan-AI-Pro** | Real-time food segmentation and calorie estimation with YOLOv11. Apple Silicon optimization + beautiful Streamlit UI. | YOLOv11 • PyTorch • CoreML • Streamlit | [Repo](https://github.com/uzbtrust/NutriScan-AI-Pro) |
-| 🚗 | **Autonomous Road Segmentation** | High-speed semantic segmentation for autonomous driving (1100+ FPS, 94% mIoU). | TensorFlow • SMP • OpenCV | [Repo](https://github.com/uzbtrust/Autonomous-Road-Segmentation-AI) |
-| 🛒 | **Product Image Search** | Real-time product search system using ResNet50 + FAISS (internal tool for Asaxiy.uz). | ResNet50 • FAISS • PyTorch | [Repo 1](https://github.com/uzbtrust/ProductRecognition) / [Repo 2](https://github.com/uzbtrust/Asaxiy-Internal-Image-Search) |
-| 🎵 | **Spotify Trends 2030** | Predicting global music trends up to 2030 based on Spotify data analysis. | Scikit-learn • Pandas • Seaborn | [Repo](https://github.com/uzbtrust/spotify-ai-predictions-2030) |
+| 🤖 | **Heterogeneous Market Data Integration** | An autonomous multi-agent system powered by xAI Grok-3 for real-time data integration, zero660-shot entity alignment, and cross-platform market reasoning. Built with a production-grade asynchronous architecture. | Python • xAI Grok-3 • Multi-Agent | [Repo](https://github.com/uzbtrust/Heterogeneous-Market-Data-Integration) |
+| 🇺🇿 | **Uzbek Low-Resource RAG** | Advanced RAG (Retrieval-Augmented Generation) pipeline for the Uzbek language. Built with LangChain LCEL, FAISS, and Meta-Llama-3 to mitigate hallucinations in low-resource NLP tasks. | Llama-3 • LangChain • FAISS • Hugging Face | [Repo](https://github.com/uzbtrust/Uzbek_LowResource_RAG) |
+| 🚗 | **Autonomous Road Segmentation AI** | High-performance, real-time semantic segmentation system for autonomous driving. Built with TensorFlow and Streamlit, achieving ultra-low latency (1100+ FPS) and 94% accuracy. | TensorFlow • Segmentation Models • OpenCV • Streamlit | [Repo](https://github.com/uzbtrust/Autonomous-Road-Segmentation-AI) |
+| 🍱 | **NutriScan-AI-Pro** | Next-gen food segmentation & calorie estimation powered by YOLOv11. Optimized for Apple Silicon M4 (Neural Engine) using CoreML and PyTorch. Featuring a sleek Streamlit interface. | YOLOv11 • PyTorch • CoreML • Streamlit | [Repo](https://github.com/uzbtrust/NutriScan-AI-Pro) |
+| 🎵 | **Spotify AI Predictions 2030** | End-to-end Data Science project predicting global music trends and seasonal genre shifts through 2030 using Machine Learning and historical Spotify data. | Scikit-learn • Pandas • Seaborn • Matplotlib | [Repo](https://github.com/uzbtrust/spotify-ai-predictions-2030) |
+| 🛒 | **Product Recognition** | High-speed visual search engine using ResNet50 and FAISS for real-time product recognition in e-commerce. | ResNet50 • FAISS • PyTorch | [Repo](https://github.com/uzbtrust/ProductRecognition) |
 
 </div>
 
@@ -78,7 +76,6 @@
 
 <h3>🚀 Let's build the future with AI • Open to collaborations!</h3>
 
-<!-- Bottom Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=200&section=footer" alt="Footer" />
 
 </div>
