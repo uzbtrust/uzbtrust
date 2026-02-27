@@ -39,7 +39,7 @@
 
 <br><br><br><br>
 
-<img src="https://streak-stats.demolab.com?user=uzbtrust&theme=dark&border=58A6FF&dates=FFFFFF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+[<img src="https://streak-stats.demolab.com?user=uzbtrust&theme=dark&border=58A6FF&dates=FFFFFF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />](https://streak-stats.demolab.com?user=uzbtrust&theme=dark&border=58A6FF&dates=FFFFFF&fire=FF6B6B&currStreakLabel=FFFFFF&count_private=true)
 
 <br><br><br>
 
