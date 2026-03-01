@@ -74,7 +74,7 @@
 
 <br><br><br>
 
-<h3>🚀 Let's build the future with AI • Open to collaborations!</h3>
+<h3>🚀 Let's build the future with AI • Open to collaborations.</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=200&section=footer" alt="Footer" />
 
