@@ -53,12 +53,28 @@
 
 | Emoji | Project | Description | Technologies | Link |
 |-------|---------|-------------|--------------|------|
-| 🤖 | **Heterogeneous Market Data Integration** | An autonomous multi-agent system powered by xAI Grok-3 for real-time data integration, zero-shot entity alignment, and cross-platform market reasoning. Built with production-grade asynchronous architecture. | Python • xAI Grok-3 • Multi-Agent • Async | [Repo](https://github.com/uzbtrust/Heterogeneous-Market-Data-Integration) |
-| 🔍 | **ReverseLens** | Autonomous reverse image search agent built with ReAct loop — LLM autonomously decides which search engine to use via native tool calling. FastAPI + Streamlit + Ollama (llama3.1). | FastAPI • Streamlit • Ollama • ReAct • Pillow | [Repo](https://github.com/uzbtrust/ReverseLens) |
-| 🏎️ | **Autonomous Racing Car** | Autonomous racing car agent trained via Deep Q-Learning (DQN). Features real-time Pygame visualization, LIDAR-based sensing, and model persistence for continuous learning. | PyTorch • Rainbow DQN • Pygame • NumPy | [Repo](https://github.com/uzbtrust/Autonomous-Racing-Car) |
-| 🕹️ | **Hide & Seek AI** | Multi-agent reinforcement learning where hiders and seekers develop emergent tool-use strategies through self-play. Built with PPO, Actor-Critic, GAE, and CTDE. | PyTorch • PPO • Actor-Critic • GAE • CTDE • Pygame | [Repo](https://github.com/uzbtrust/Hide-Seek) |
-| 🏷️ | **Uzbek Operator NER From Scratch** | Multilingual Named Entity Recognition system built completely from scratch using BiLSTM-CRF in PyTorch. Supports English + Russian with custom operator domain entities (phones, addresses, working hours). Designed as the Information Extraction module for RAG pipelines. | PyTorch • BiLSTM • CRF • FastText • Character CNN | [Repo](https://github.com/uzbtrust/Uzbek-Operator-NER-From-Scratch) |
-| 📚 | **Uzbek Operator RAG From Scratch** | A fully from-scratch Retrieval-Augmented Generation system for an intelligent operator chatbot. Includes custom BPE tokenizer, BERT-style Transformer (~50M params), MLM pre-training, SimCSE fine-tuning, and hybrid retriever. No LangChain. | PyTorch • Transformer • BPE Tokenizer • SimCSE • FAISS | [Repo](https://github.com/uzbtrust/Uzbek-Operator-RAG-From-Scratch) |
+| 🤖 | **Heterogeneous Market Data Integration** | An autonomous multi-agent system powered by xAI Grok-3 for real-time data integration, zero-shot entity alignment, and cross-platform market reasoning. | Python • xAI Grok-3 • Multi-Agent • Async | [Repo](https://github.com/uzbtrust/Heterogeneous-Market-Data-Integration) |
+| 🔍 | **ReverseLens** | Autonomous reverse image search agent built with ReAct loop — LLM autonomously decides which search engine to use via native tool calling. | FastAPI • Streamlit • Ollama • ReAct | [Repo](https://github.com/uzbtrust/ReverseLens) |
+| 🏎️ | **Autonomous Racing Car** | Autonomous racing car agent trained via Deep Q-Learning (DQN). Features real-time Pygame visualization and LIDAR-based sensing. | PyTorch • Rainbow DQN • Pygame | [Repo](https://github.com/uzbtrust/Autonomous-Racing-Car) |
+| 🕹️ | **Hide & Seek AI** | Multi-agent reinforcement learning where hiders and seekers develop emergent tool-use strategies through self-play. | PyTorch • PPO • Actor-Critic • GAE • CTDE | [Repo](https://github.com/uzbtrust/Hide-Seek) |
+| 🏷️ | **Uzbek Operator NER From Scratch** | Multilingual BiLSTM-CRF Named Entity Recognition system built completely from scratch. Supports English + Russian with custom operator domain entities. | PyTorch • BiLSTM • CRF • FastText | [Repo](https://github.com/uzbtrust/Uzbek-Operator-NER-From-Scratch) |
+| 📚 | **Uzbek Operator RAG From Scratch** | Fully from-scratch Retrieval-Augmented Generation system for an intelligent operator chatbot. Custom transformer, BPE tokenizer, SimCSE and hybrid retriever. | PyTorch • Transformer • BPE • SimCSE • FAISS | [Repo](https://github.com/uzbtrust/Uzbek-Operator-RAG-From-Scratch) |
+
+</div>
+
+<br><br>
+
+## 📄 Research Papers
+
+I have authored three research papers covering the core areas of my work:
+
+<div align="center">
+
+| Topic                  | Paper Title | Link |
+|------------------------|-------------|------|
+| **NLP**                | From Scratch: Multilingual BiLSTM-CRF NER and Hybrid RAG Systems for an Intelligent Uzbek Telecom Operator Chatbot – Foundations for Reinforcement Learning Agents | [Zenodo](https://zenodo.org/records/19451409) |
+| **Agentic AI**         | Autonomous Agents for Heterogeneous Data Integration and Local NLP: Experiences with Cloud and Edge Deployments | [Zenodo](https://zenodo.org/records/19451658) |
+| **Reinforcement Learning** | From Circuit to Arena: Emergent Intelligence in Single-Agent and Multi-Agent Reinforcement Learning – A Dual Case Study of Autonomous Racing with Rainbow-lite DQN and Hide-and-Seek with PPO | [Zenodo](https://zenodo.org/records/19451818) |
 
 </div>
 
