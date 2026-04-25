@@ -20,7 +20,6 @@
 <p>
   🇺🇿 From Uzbekistan • Passionate about solving real-world problems with AI<br><br>
   Focused on low-resource languages, autonomous systems, multi-agent AI & from-scratch deep learning<br><br>
-  <strong>Currently applying to Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</strong><br>
   to advance my AI research on a global scale 🌟
 </p>
 
