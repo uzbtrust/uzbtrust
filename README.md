@@ -112,3 +112,15 @@ Complete structured learning courses covering AI fundamentals to advanced topics
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=200&section=footer" alt="Footer" />
 
 </div>
+
+<br><br>
+
+## 🌟 Key Highlights
+
+- 🏆 **3 Published Research Papers** on arXiv/Zenodo
+- 🤖 **Multi-Agent Systems** specialist - xAI, LangChain, OpenAI integrations
+- 🎯 **From-Scratch Deep Learning** - Transformers, BiLSTM-CRF, RAG systems
+- 📊 **16-Module Data Science** curriculum with 1000+ practical examples
+- 🗣️ **Low-Resource NLP** expert - Uzbek language focus
+- 🔄 **Autonomous Agents** with ReAct, tool-use, and self-play RL
+
