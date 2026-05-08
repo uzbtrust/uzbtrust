@@ -115,12 +115,26 @@ Complete structured learning courses covering AI fundamentals to advanced topics
 
 <br><br>
 
-## 🌟 Key Highlights
 
-- 🏆 **3 Published Research Papers** on arXiv/Zenodo
-- 🤖 **Multi-Agent Systems** specialist - xAI, LangChain, OpenAI integrations
-- 🎯 **From-Scratch Deep Learning** - Transformers, BiLSTM-CRF, RAG systems
-- 📊 **16-Module Data Science** curriculum with 1000+ practical examples
-- 🗣️ **Low-Resource NLP** expert - Uzbek language focus
-- 🔄 **Autonomous Agents** with ReAct, tool-use, and self-play RL
+<br><br>
+
+## 💡 Expertise Areas
+
+**AI & Machine Learning**
+- Multi-Agent Autonomous Systems (xAI, LangChain, OpenAI)
+- Deep Learning from Scratch (Transformers, BiLSTM-CRF, RAG)
+- Reinforcement Learning (DQN, PPO, Actor-Critic)
+- Computer Vision & Image Processing
+
+**NLP & Language Models**
+- Low-Resource Language NLP (Uzbek, Multilingual)
+- Large Language Models & Fine-tuning
+- Named Entity Recognition & Information Extraction
+- Chatbots & Conversational AI
+
+**Research & Education**
+- 3 Published Research Papers
+- 16-Module Data Science Curriculum (1000+ examples)
+- 3-Module NLP Advanced Course
+- Open-source Projects & Implementations
 
