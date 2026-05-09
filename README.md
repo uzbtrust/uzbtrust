@@ -118,21 +118,21 @@ Complete structured learning courses covering AI fundamentals to advanced topics
 
 <br><br>
 
-## 💡 Expertise Areas
+## 💡 Expertise ## 💡 Expertise Areas Specialization
 
-**AI & Machine Learning**
+**🤖 AI AI & Machine Learning Machine Learning**
 - Multi-Agent Autonomous Systems (xAI, LangChain, OpenAI)
 - Deep Learning from Scratch (Transformers, BiLSTM-CRF, RAG)
 - Reinforcement Learning (DQN, PPO, Actor-Critic)
 - Computer Vision & Image Processing
 
-**NLP & Language Models**
+**🗣️ NLP NLP & Language Models Language Models**
 - Low-Resource Language NLP (Uzbek, Multilingual)
 - Large Language Models & Fine-tuning
 - Named Entity Recognition & Information Extraction
 - Chatbots & Conversational AI
 
-**Research & Education**
+**🎓 Research Research & Education Education**
 - 3 Published Research Papers
 - 16-Module Data Science Curriculum (1000+ examples)
 - 3-Module NLP Advanced Course
