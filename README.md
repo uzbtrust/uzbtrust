@@ -77,6 +77,21 @@ I have authored three research papers covering the core areas of my work:
 
 </div>
 
+<br><br>
+
+## 📚 Lessons & Learning Materials
+
+Complete structured learning courses covering AI fundamentals to advanced topics:
+
+<div align="center">
+
+| Course | Description | Topics | Repository |
+|--------|-------------|--------|------------|
+| 🔬 **Data Science Lessons** | Comprehensive Data Science curriculum from Python basics to production models. 16 modules covering data manipulation, visualization, and machine learning. | NumPy • Pandas • Data Warehouse • Data Preparation • Harmonization • Visualization • ML Fundamentals • Regression • Classification • Clustering • Deep Learning • Certification Projects | [Data-Science-Lessons](https://github.com/uzbtrust/Data-Science-lessons) |
+| 🗣️ **NLP Lessons** | Advanced Natural Language Processing course with practical implementations. From tokenization to sentiment analysis and neural networks. | Chatbots • Regular Expressions • ELIZA • Deep Learning • Neural Networks • Keras • Sequence Models • Tokenization • Sentiment Analysis | [NLP-Lessons](https://github.com/uzbtrust/NLP-Lessons) |
+
+</div>
+
 <br><br><br>
 
 <div align="center">
