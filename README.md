@@ -14,15 +14,15 @@ A hybrid system that segments Uzbek words into root/derivational/lexical/syntact
 
 **[TriageGeist](https://github.com/uzbtrust/triagegeist)**
 A 4-model emergency severity index (ESI) ensemble evaluated for clinical safety: split conformal prediction, asymmetric under-triage cost, and a fairness audit across sex, language, age, and site on 80,000 patients.
-`Bio_ClinicalBERT` · `Conformal prediction` · `Fairness auditing`
+`Bio_ClinicalBERT` · `Conformal prediction` · `Fairness auditing` · [demo](https://huggingface.co/spaces/uzbtrust/triagegeist)
 
 **[Uzbek Operator RAG](https://github.com/uzbtrust/uzbek-operator-rag)**
 A retrieval-augmented generation pipeline for an Uzbek telecom operator chatbot: custom BPE tokenizer, a BERT-style transformer pretrained with MLM + SimCSE, and a hybrid retriever, with no LangChain or LlamaIndex in the stack.
-`PyTorch` · `Transformers` · `FAISS`
+`PyTorch` · `Transformers` · `FAISS` · [model](https://huggingface.co/uzbtrust/uzbek-operator-rag)
 
 **[Uzbek Operator NER](https://github.com/uzbtrust/uzbek-operator-ner)**
 The information-extraction half of the same chatbot: a BiLSTM-CRF sequence tagger for English and Russian with custom domain entities.
-`PyTorch` · `BiLSTM-CRF`
+`PyTorch` · `BiLSTM-CRF` · [model](https://huggingface.co/uzbtrust/uzbek-operator-ner)
 
 ---
 
