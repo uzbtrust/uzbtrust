@@ -16,12 +16,12 @@ A hybrid system that segments Uzbek words into root/derivational/lexical/syntact
 A 4-model emergency severity index (ESI) ensemble evaluated for clinical safety: split conformal prediction, asymmetric under-triage cost, and a fairness audit across sex, language, age, and site on 80,000 patients.
 `Bio_ClinicalBERT` · `Conformal prediction` · `Fairness auditing`
 
-**[Uzbek Operator RAG — From Scratch](https://github.com/uzbtrust/uzbek-operator-rag)**
-A retrieval-augmented generation pipeline for an Uzbek telecom operator chatbot, built without LangChain or LlamaIndex: custom BPE tokenizer, a BERT-style transformer pretrained with MLM + SimCSE, and a hybrid retriever.
+**[Uzbek Operator RAG](https://github.com/uzbtrust/uzbek-operator-rag)**
+A retrieval-augmented generation pipeline for an Uzbek telecom operator chatbot: custom BPE tokenizer, a BERT-style transformer pretrained with MLM + SimCSE, and a hybrid retriever, with no LangChain or LlamaIndex in the stack.
 `PyTorch` · `Transformers` · `FAISS`
 
-**[Uzbek Operator NER — From Scratch](https://github.com/uzbtrust/uzbek-operator-ner)**
-The information-extraction half of the same chatbot: a BiLSTM-CRF sequence tagger for English and Russian with custom domain entities, also built from scratch.
+**[Uzbek Operator NER](https://github.com/uzbtrust/uzbek-operator-ner)**
+The information-extraction half of the same chatbot: a BiLSTM-CRF sequence tagger for English and Russian with custom domain entities.
 `PyTorch` · `BiLSTM-CRF`
 
 ---
@@ -29,8 +29,6 @@ The information-extraction half of the same chatbot: a BiLSTM-CRF sequence tagge
 #### Writing
 
 - [From Scratch: Multilingual BiLSTM-CRF NER and Hybrid RAG for an Uzbek Telecom Chatbot](https://zenodo.org/records/19451409)
-- [Autonomous Agents for Heterogeneous Data Integration and Local NLP](https://zenodo.org/records/19451658)
-- [From Circuit to Arena: Rainbow-lite DQN and PPO Self-Play](https://zenodo.org/records/19451818)
 
 ---
 
