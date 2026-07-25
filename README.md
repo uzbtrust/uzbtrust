@@ -24,6 +24,10 @@ A retrieval-augmented generation pipeline for an Uzbek telecom operator chatbot:
 The information-extraction half of the same chatbot: a BiLSTM-CRF sequence tagger for English and Russian with custom domain entities.
 `PyTorch` · `BiLSTM-CRF` · [model](https://huggingface.co/uzbtrust/uzbek-operator-ner)
 
+**[Stenoz](https://github.com/uzbtrust/stenoz)**
+A two-stage coronary stenosis detector for X-ray angiography: a U-Net trained directly on lesion masks (test F1 0.645, 95.7% lesion recall) paired with an interpretable geometric diameter-profiling layer, validated against a synthetic-injection ground truth.
+`PyTorch` · `U-Net` · `Streamlit` · [model](https://huggingface.co/uzbtrust/stenoz-coronary-stenosis-unet) · [paper](https://github.com/uzbtrust/stenoz/blob/main/report/Stenoz_Ilmiy_Maqola.pdf)
+
 ---
 
 #### Writing
