@@ -8,6 +8,10 @@ NLP and applied ML, based in Uzbekistan. I build things end-to-end — data, mod
 
 #### Projects
 
+**[Smart Road](https://github.com/uzbtrust/smart-road)**
+Grades asphalt through ASTM D6433 instead of counting defects: a YOLO11 detector over eight distress classes mapped onto the standard's taxonomy (mAP50 0.657 over 113,648 boxes), inverse perspective mapping to recover square metres on the road plane, and the deduct-value mathematics that turns densities into a Pavement Condition Index. The engine reproduces the worked example printed in the standard — 48.6 against a published 49.
+`PyTorch` · `YOLO11` · `Streamlit` · [model](https://huggingface.co/uzbtrust/smart-road-pci-yolo11) · [dataset](https://www.kaggle.com/datasets/uzbtrust/smartroad-yolo)
+
 **[UZ-ByT5 — Uzbek Morpheme Analyzer](https://github.com/uzbtrust/uzbek-morpheme-analyzer)**
 A hybrid system that segments Uzbek words into root/derivational/lexical/syntactic morphemes, restores dictionary forms, and explains each part. Fine-tuned ByT5 with a deterministic rule-based fallback for anything the model gets wrong.
 `Python` · `Transformers` · `Streamlit` · [model](https://huggingface.co/uzbtrust/uzbek-morpheme-byt5) · [paper](https://github.com/uzbtrust/uzbek-morpheme-analyzer/blob/main/paper/Uzbek_Morfema_ByT5.pdf)
